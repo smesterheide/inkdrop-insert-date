@@ -1,7 +1,7 @@
 {
   "name": "insert-date",
   "main": "./lib/insert-date",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A plugin to quickly insert the current date and time",
   "keywords": [],
   "repository": "https://github.com/notapianokey/inkdrop-insert-date",
