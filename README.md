@@ -1,3 +1,7 @@
+# Deprecated
+
+This plugin is deprecated in favor of https://github.com/inkdropapp/inkdrop-insert-date
+
 # inkdrop-insert-date
 
 A plugin for [Inkdrop](https://www.inkdrop.info/) that allows you to quickly insert the current date and time into your notes. Uses [Moment.js](https://momentjs.com/) for formatting and localization.
